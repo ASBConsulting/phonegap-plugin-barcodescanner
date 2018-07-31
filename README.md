@@ -1,4 +1,4 @@
-# PhoneGap Plugin BarcodeScanner
+# PhoneGap Plugin BarcodeScanner - ASB-Fork, Don't Use! 
 ================================
 
 [![Build Status](https://travis-ci.org/phonegap/phonegap-plugin-barcodescanner.svg)](https://travis-ci.org/phonegap/phonegap-plugin-barcodescanner)
